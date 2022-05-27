@@ -2,7 +2,7 @@
 /**
  * Theme functions and definitions
  *
- * @package HelloElementorChild
+ * @package HelloElementorChilddd
  */
 
 /**
