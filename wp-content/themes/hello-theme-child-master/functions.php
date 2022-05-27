@@ -6,7 +6,7 @@
  */
 
 /**
- * Load child theme css and optional scripts
+ * Load chiddld theme css and optional scripts
  *
  * @return void
  */
