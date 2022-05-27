@@ -6,7 +6,7 @@
  */
 
 /**
- * Load chiddld theme css and optional scripts
+ * Load chidrdld theme css and optional scripts
  *
  * @return void
  */
